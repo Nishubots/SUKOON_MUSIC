@@ -35,15 +35,15 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/itzshukla/PRINCE-MUSIC"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Nishubots/SUKOON_MUSIC"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
 
 
 
 <p align="center">
-<a href="https://telegram.me/ll_SMARTY_PRINCE_ll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐏𝐑𝐈𝐍𝐂𝐄%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ALONE_KINGG"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 %20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/ll_HYPER_PRINCE_ll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐎𝐖𝐍𝐄𝐑%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/its_deva_heree"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐎𝐖𝐍𝐄𝐑%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
