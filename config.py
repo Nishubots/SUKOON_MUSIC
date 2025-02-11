@@ -16,9 +16,9 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","its_deva_heree")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Prince1_music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" ,"JANNAT_MUSIC_BOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "PRINCE")
+BOT_NAME = getenv("BOT_NAME" , "JANNAT_MUSIC_BOT")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "ASSISTANTT0088")
 # ---------------------------------------------------------
@@ -35,7 +35,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002018556839))
+LOGGER_ID = int(getenv("LOGGER_ID", --1002453612342))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 OWNER_ID = int(getenv("OWNER_ID", 7538572906))
@@ -67,7 +67,7 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/l_ABOUT_PRINCE_l")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/EAGLE_UPDTAES")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Underground_7908")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
